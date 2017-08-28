@@ -9,7 +9,7 @@ The datasets(https://www.kaggle.com/dalpozz/creditcardfraud) contains transactio
 
 ## Key Results
 First I analyze the raw data via several data analysis technique.
-<div align=center><img width="400" height="350" src="https://github.com/AngelaZou/Credit-Card-Fraud-Detection-Project/blob/master/figure/fig1.png"/></div><br>
+<div align=center><img width="450" height="350" src="https://github.com/AngelaZou/Credit-Card-Fraud-Detection-Project/blob/master/figure/fig1.png"/></div><br>
 
 I want test Logistic Regression on skewed data. I also apply cross validation for hyperparameter tuning<br>
 
