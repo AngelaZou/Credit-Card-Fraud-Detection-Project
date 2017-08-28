@@ -6,4 +6,5 @@ to detect such fraud via some novel methods. Here we will apply several `machine
 
 ## Dataset
 The datasets(https://www.kaggle.com/dalpozz/creditcardfraud) contains transactions made by credit cards in September 2013 <br>
-by european cardholders.This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 <br> transactions.The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions. <br>
+by european cardholders.This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807<br>
+transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions. <br>
