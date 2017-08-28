@@ -15,8 +15,8 @@ For example, I analyze the frauds cases with the first principal component.<br>
 Then I apply LogisticRegression algorithom. Best model to choose from cross validation is with C parameter =  0.01 <br>
 I measure the accuracy using the Area Under the Precision-Recall Curve (AUPRC).<br> 
 <div align=center><img width="400" height="350" src="https://github.com/AngelaZou/Credit-Card-Fraud-Detection-Project/blob/master/figure/fig2.png"/></div><br>
-You can see all the codes in the jupyter notebook.<br>
 <div align=center>Precision-Recall Curve</div><br>
+You can see all the codes in the jupyter notebook.<br>
 
 ## Certification
 
