@@ -18,5 +18,3 @@ I measure the accuracy using the Area Under the Precision-Recall Curve (AUPRC).<
 <div align=center>Precision-Recall Curve</div><br>
 You can see all the codes in the jupyter notebook.<br>
 
-## Certification
-
